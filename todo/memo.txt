@@ -1,0 +1,5 @@
+1/14でこれ以前までやったの次は以下から。
+https://flet.dev/docs/tutorials/python-todo#filtering-list-items
+
+うまくいかない。
+https://github.com/flet-dev/examples/blob/main/python/tutorials/todo/to-do-5.py
